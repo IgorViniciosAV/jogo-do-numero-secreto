@@ -173,4 +173,8 @@ button:disabled {
         height: 60px;
         padding: 1.8rem;
     }
+    body::before {
+        width: 98%;
+        height: 78%;
+    }
 }
